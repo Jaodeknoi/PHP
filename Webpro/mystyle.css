@@ -1,0 +1,20 @@
+body {
+    background: #8ffade;
+    color: black;
+    text-align: center;
+    }
+
+.big {
+    font-size: 25pt;
+    font-style: italic;
+    text-align: center;
+    color: rgb(38, 95, 100); background-color: rgb(114, 228, 198);
+}
+
+
+.normal {
+    font-size: 15pt;
+    text-align: center;
+    color: rgb(65, 160, 169);
+
+}
